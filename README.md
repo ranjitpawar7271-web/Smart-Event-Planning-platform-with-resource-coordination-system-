@@ -1,4 +1,4 @@
-# EventSphere — Event Management System
+# Eventra — Smart Event Planning Platform with Resource coordination system 
 
 A full-stack, production-quality event management platform built with **Django 5**,
 **Bootstrap 5**, **Bootstrap Icons**, and **SQLite**. EventSphere lets organizers create
