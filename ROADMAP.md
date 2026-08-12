@@ -1,4 +1,4 @@
-# EventSphere → Enterprise Platform: Build Roadmap
+# Eventra — Smart Event Planning Platform with Resource coordination system
 
 Your original spec describes a full enterprise SaaS platform. Building all of
 it in one pass isn't realistic to do at production quality, so it's being
